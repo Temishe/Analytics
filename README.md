@@ -23,7 +23,7 @@
 
 [Текст ссылки](http://dent-it.ru)
 
-![логотип](url-изображения) 
+![логотип](https://dent-it.ru/Templates/skin/default/images/logo.png) 
 
 `строка кода обычного`
 
