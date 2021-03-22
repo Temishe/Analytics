@@ -25,7 +25,7 @@
 
 ![логотип](https://dent-it.ru/Templates/skin/default/images/logo.png) 
 
-`строка кода обычного`
+`get_count("pear tree")`
 
 ```Python
 def get_count(input_str):
