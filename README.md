@@ -27,7 +27,7 @@
 
 `строка кода обычного`
 
-```html/javascript/Python и т.д.
+```Python
 def get_count(input_str):
     num_vowels = 0
     for i in input_str:
