@@ -21,7 +21,7 @@
      1. ...
 
 
-[Текст ссылки](http://dent-it.ru)
+[IDENT](http://dent-it.ru)
 
 ![логотип](https://dent-it.ru/Templates/skin/default/images/logo.png) 
 
