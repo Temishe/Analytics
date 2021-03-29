@@ -21,15 +21,22 @@
      1. ...
 
 
-[Текст ссылки](http://dent-it.ru)
+[IDENT](http://dent-it.ru)
 
-![логотип](url-изображения) 
+![логотип](https://dent-it.ru/Templates/skin/default/images/logo.png) 
 
-`строка кода обычного`
+`get_count("pear tree")`
 
-```html/javascript/Python и т.д.
-строка кода
-с подсветкой синтаксиса
+```Python
+def get_count(input_str):
+    num_vowels = 0
+    for i in input_str:
+        if i == 'a' or i == 'e' or i == 'i' or i == 'o' or i == 'u':
+            num_vowels += 1
+        else:
+            pass
+    
+    return num_vowels
 ```
 
 В GITHUB можно ссылаться на commit, вводя его номер
